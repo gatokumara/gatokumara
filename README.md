@@ -1,45 +1,42 @@
-# Currículo Profissional
-**Nome:** Ícaro Carniello Capobianco
+# Professional Resume
+**Name:** Ícaro Carniello Capobianco
 
+**Role:** Full-Stack Web Developer
 
-**Função:** Desenvolvedor Web Full-Stack
+**Years of Experience:** 6 years
 
+**Work Arrangement:** Remote
 
-**Anos de Experiência:** 6 anos
-
-
-**Modalidade de Trabalho:** Remoto
-
-## Informações de Contato
+## Contact Information
 
 **Email:** gatokumara@gmail.com
 
-## Resumo Profissional
-Desenvolvedor web com 6 anos de experiência comprovada através do meu perfil UpWork, que conta com diversos projetos concluídos e avaliações positivas, incluindo trabalhos de longa duração que se estenderam por mais de 2 anos. Tenho trabalhado com diversas tecnologias, desde ferramentas low-code até linguagens populares como TypeScript, Python e PHP.
+## Professional Summary
+Web developer with 6 years of proven experience through my UpWork profile, which features numerous completed projects and positive reviews, including long-term assignments that extended over 2 years. I have worked with various technologies, from low-code tools to popular languages such as TypeScript, Python, and PHP.
 
-Disponibilizo soluções fullstack pronta-entrega através de templates proprietários, permitindo iniciar projetos com agilidade e qualidade. Minha filosofia de trabalho consiste em codificar apenas o necessário e utilizar ferramentas especializadas para realizar o trabalho pesado.
+I offer ready-to-deliver fullstack solutions through proprietary templates, allowing projects to start with agility and quality. My work philosophy consists of coding only what's necessary and using specialized tools to handle the heavy lifting.
 
-No passado, contribuí com sucesso para a geração de receitas de seis dígitos ao adicionar novos recursos a sistemas e bases de código existentes, graças à minha capacidade de ler código legado, compreender rapidamente os desafios e prototipar soluções precisas.
+In the past, I successfully contributed to generating six-figure revenues by adding new features to existing systems and codebases, thanks to my ability to read legacy code, quickly understand challenges, and prototype precise solutions.
 
-Atualmente, prefiro trabalhar em novos projetos que me permitam reunir as melhores ferramentas para o trabalho. Desenvolvo código utilizando o framework Next.js, integrando APIs e combinando ferramentas low-code acessíveis, como Airtable e Auth0, para construir projetos excepcionais e de fácil manutenção.
+Currently, I prefer working on new projects that allow me to gather the best tools for the job. I develop code using the Next.js framework, integrating APIs and combining accessible low-code tools, such as Airtable and Auth0, to build exceptional and easily maintainable projects.
 
-## Experiência Profissional
-
-### The Get Smart Group
-**Cargo:** Desenvolvedor Web
-**Período:** março de 2022 - junho de 2023 (1 ano e 4 meses)
-**Modalidade:** Meio período | Remoto (Estados Unidos)
-**Atividades:**
-- Desenvolvimento contínuo e manutenção de produtos e serviços para The Get Smart Group e seus clientes
-- Integração de tecnologias como Airtable, WordPress e Stripe
-- Desenvolvimento web Full-Stack
+## Professional Experience
 
 ### The Get Smart Group
-**Cargo:** Desenvolvedor Web
-**Período:** março de 2020 - setembro de 2021 (1 ano e 7 meses)
-**Modalidade:** Tempo integral | Remoto
-**Competências:**
-- Desenvolvimento web
+**Position:** Web Developer
+**Period:** March 2022 - June 2023 (1 year and 4 months)
+**Arrangement:** Part-time | Remote (United States)
+**Activities:**
+- Continuous development and maintenance of products and services for The Get Smart Group and their clients
+- Integration of technologies such as Airtable, WordPress, and Stripe
+- Full-Stack Web Development
+
+### The Get Smart Group
+**Position:** Web Developer
+**Period:** March 2020 - September 2021 (1 year and 7 months)
+**Arrangement:** Full-time | Remote
+**Skills:**
+- Web Development
 - Full-Stack Development
 - Node.js
 - React.js
@@ -48,62 +45,62 @@ Atualmente, prefiro trabalhar em novos projetos que me permitam reunir as melhor
 - TypeScript
 
 ### Expert Ready
-**Cargo:** Desenvolvedor Web
-**Período:** março de 2019 - fevereiro de 2020 (1 ano)
-**Modalidade:** Remoto
-**Competências:**
-- Desenvolvimento web
+**Position:** Web Developer
+**Period:** March 2019 - February 2020 (1 year)
+**Arrangement:** Remote
+**Skills:**
+- Web Development
 - Full-Stack Development
 - Git
 - MySQL
 
-## Projetos Recentes (2024)
+## Recent Projects (2024)
 
 ### Portal Website Development
-**Período:** 20 de fevereiro - 11 de março de 2024
-**Avaliação:** 5.0/5.0
+**Period:** February 20 - March 11, 2024
+**Rating:** 5.0/5.0
 
 ### Tech Assessment / Interview
-**Período:** 3 de março de 2024
-**Avaliação:** 5.0/5.0
-**Feedback:** "Icaro obteve pontuação muito alta na avaliação técnica, será contratado sob um novo contrato."
+**Period:** March 3, 2024
+**Rating:** 5.0/5.0
+**Feedback:** "Icaro scored very high on the technical assessment, will be hired under a new contract."
 
 ### Web Development with TypeScript, React, NodeJS and PHP
-**Período:** 3 de abril - 4 de novembro de 2024
-**Avaliação:** 4.55/5.0
-**Feedback:** "Icaro foi um grande ativo e ajudou a lançar integrações muito úteis e produtos personalizados para nossos clientes. Ele estava sempre buscando o melhor sim para nossa equipe e projetos."
+**Period:** April 3 - November 4, 2024
+**Rating:** 4.55/5.0
+**Feedback:** "Icaro was a great asset and helped launch very useful integrations and custom products for our clients. He was always looking for the best yes for our team and projects."
 
 ### Ops Dev Task
-**Período:** 9 de abril - 2 de junho de 2024
-**Avaliação:** 5.0/5.0
-**Feedback:** "Icaro é um desenvolvedor muito inteligente e talentoso."
+**Period:** April 9 - June 2, 2024
+**Rating:** 5.0/5.0
+**Feedback:** "Icaro is a very intelligent and talented developer."
 
 ### Frontend Developer
-**Período:** 30 de julho - 22 de agosto de 2024
-**Avaliação:** 4.2/5.0
+**Period:** July 30 - August 22, 2024
+**Rating:** 4.2/5.0
 
 ### Airtable and UI dev for React Carousel + Elementor
-**Período:** 26 de agosto - 18 de novembro de 2024
-**Avaliação:** 4.7/5.0
+**Period:** August 26 - November 18, 2024
+**Rating:** 4.7/5.0
 
 ### Developer needed for small database app and wordpress
-**Período:** 22 de janeiro - 25 de janeiro de 2024
-**Avaliação:** 5.0/5.0
+**Period:** January 22 - January 25, 2024
+**Rating:** 5.0/5.0
 
 ### Full Stack Developer for MVP Buildout
-**Período:** 3 de março - 14 de julho de 2024
+**Period:** March 3 - July 14, 2024
 
-## Templates e Soluções Prontas
-Disponibilizo um conjunto de templates fullstack pronta-entrega que agilizam o desenvolvimento e implantação de projetos web. Essas soluções incluem:
-- Sistemas de autenticação e autorização completos
-- Dashboards administrativos personalizáveis
-- Integrações com APIs de pagamento
-- Sistemas de gerenciamento de conteúdo otimizados
-- Aplicações web progressivas (PWA) com componentes reutilizáveis
-- Soluções e-commerce com gateway de pagamento integrado
+## Templates and Ready Solutions
+I offer a set of ready-to-deliver fullstack templates that streamline the development and deployment of web projects. These solutions include:
+- Complete authentication and authorization systems
+- Customizable administrative dashboards
+- Payment API integrations
+- Optimized content management systems
+- Progressive web applications (PWA) with reusable components
+- E-commerce solutions with integrated payment gateway
 
-## Competências Técnicas
-- Desenvolvimento Web Full-Stack
+## Technical Skills
+- Full-Stack Web Development
 - Next.js
 - TypeScript
 - React.js
@@ -117,13 +114,13 @@ Disponibilizo um conjunto de templates fullstack pronta-entrega que agilizam o d
 - Auth0
 - Stripe
 - Elementor
-- Integração de APIs
+- API Integration
 
-## Diferenciais
-- Templates fullstack prontos para uso imediato
-- Capacidade de ler e compreender código legado
-- Rápida compreensão de desafios técnicos
-- Prototipagem eficiente de soluções
-- Experiência com ferramentas low-code
-- Criação de sistemas de fácil manutenção
-- Integração de sistemas diversos
+## Differentiators
+- Ready-to-use fullstack templates
+- Ability to read and understand legacy code
+- Rapid comprehension of technical challenges
+- Efficient solution prototyping
+- Experience with low-code tools
+- Creation of easily maintainable systems
+- Integration of diverse systems
