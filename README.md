@@ -1,10 +1,18 @@
 # Currículo Profissional
+**Nome:** Ícaro Carniello Capobianco
 
-## Informações Pessoais
-**Nome:** Icaro
+
 **Função:** Desenvolvedor Web Full-Stack
+
+
 **Anos de Experiência:** 6 anos
+
+
 **Modalidade de Trabalho:** Remoto
+
+## Informações de Contato
+
+**Email:** gatokumara@gmail.com
 
 ## Resumo Profissional
 Desenvolvedor web com 6 anos de experiência comprovada através do meu perfil UpWork, que conta com diversos projetos concluídos e avaliações positivas, incluindo trabalhos de longa duração que se estenderam por mais de 2 anos. Tenho trabalhado com diversas tecnologias, desde ferramentas low-code até linguagens populares como TypeScript, Python e PHP.
